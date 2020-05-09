@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    background-color: #ffffff;
+}
+
+.bg {
+    background: url(../images/main/bg.jpg) no-repeat bottom;
+    height: 1080px;
+    width: 100%;
+}
+.title {
+    font-size: 100px;
+    margin: 0;
+    padding: 160px;
+    text-align: center;
+}
+.title2 {
+    font-size: 60px;
+    margin: 0;
+    text-align: center;
+}
+.text {
+    font-size: 28px;
+}
+.img {
+    display: block;
+    margin: 0 auto;
+}
+.end {
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+}
+footer {
+    margin: 8px 0;
+    border-top: #252525 solid 2px;
+}
